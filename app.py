@@ -76,6 +76,7 @@ with st.sidebar:
     - Développement Frontend
     - Automatisation Python
     - Visualisation de Données
+    - Base de donnée:SQL,ArcGis,Qgis        
     """)
     
     st.markdown('</div>', unsafe_allow_html=True)
